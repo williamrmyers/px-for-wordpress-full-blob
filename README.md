@@ -8,7 +8,7 @@ git clone https://github.com/williamrmyers/px-for-wordpress-full-blob
 composer require perimeterx/php-sdk
 ```
 
-Setup your ENV variables in the apache Config file.
+### Setup your ENV variables in the apache Config file.
 ```
 
 SetEnv APP_ID {app_id}
