@@ -1,9 +1,0 @@
-.idea
-*.iml
-/vendor
-tests/bootstrap.php
-composer.lock
-dev/
-build/
-.vscode
-tests/coverage
